@@ -1,4 +1,4 @@
-##PLEASE READ CAREFULLY BEFORE USING THIS APP
+## PLEASE READ CAREFULLY BEFORE USING THIS APP
 
 This End-User Licence Agreement (“EULA”) inclusive of the Terms and Conditions contained herein shall be  dated the date on which you first use the App (as defined below).
 
@@ -8,30 +8,48 @@ NGC hereby grants a non-exclusive and non-transferable licence use of the App to
 
 Operating system – The App is optimised to work with the latest mobile operating systems for Apple iOS and Google Android.
 
-AGREED TERMS AND CONDITIONS
+## AGREED TERMS AND CONDITIONS
 
-ACKNOWLEDGEMENTS
+### ACKNOWLEDGEMENTS
+
 The terms and conditions of this EULA shall apply to the App, including any updates or supplements to the App, unless they come with separate terms, in which case those terms shall apply. If any open-source software is included in the App, the terms of an open-source licence may override some of the terms of this EULA.
+
 NGC may change these terms and conditions at any time by notifying You of a change when You next start the App. The new terms may be displayed on-screen and You may be required to read and accept them to continue your use of the App.
+
 From time to time updates to the App may be issued through the App Store. Depending on the update, You may not be able to use the App until You have downloaded the latest version of the App and accepted any new terms and conditions.
+
 You will be assumed to have obtained permission from the owners of the mobile telephone or handheld devices (“Devices”)that are controlled, but not owned, by You and described in condition 2.2  and to download App onto the Devices. You and they may be charged by your and their service providers for internet access on the Devices. You accept responsibility in accordance with the terms and conditions of this EULA for the use of the App or in relation to any Device, whether or not it is owned by You.
+
 By using the App, You acknowledge and agree that internet transmissions are never completely private or secure. You understand that any message or information You send using the App may be read or intercepted by others, even if there is a special notice that a particular transmission is encrypted.
 From time to time NGC may include hypertext links to sites which are created by individuals or companies outside of our group (“Third-party Sites”). If You click on these, You will leave the App. Whilst NGC will try to check that the content of Third-party Sites is suitable, NGC shall not take any responsibility for the practices of the individuals or companies who publish them, nor the integrity or quality of their content. NGC has no control over Third-party Sites and accept no responsibility for them, for loss or damage that You may incur through your use of them or any results that may be obtained from them. Please review their terms of use and privacy policies (if any) prior to your use of them.
+
 Some elements of the content accessible from the App may not be provided by NGC but instead by other individuals or companies. NGC shall not guarantee that such content or services are virus and error free. You should always check any files before downloading them.
+
 If You choose or NGC issues You with a username, password or other piece of identification information, you must keep it confidential. You're fully responsible for all actions on your account. You must notify NGC immediately if there is any unauthorised use. NGC shall not be liable for any loss or damage arising from your failure to keep this information confidential and NGC reserves the right to suspend or disable your username, password or other piece of identification information.
+
 Any words following the terms including, include, in particular or for example or any similar phrase shall be construed as illustrative and shall not limit the generality of the related general words.
-GRANT AND SCOPE OF LICENCE
+
+### GRANT AND SCOPE OF LICENCE
 In consideration of You agreeing to abide by the terms and conditions of this EULA, NGC grants You a non-transferable, non-exclusive licence to use the App on the Devices, subject to these terms and conditions, and the App Store Rules, incorporated into this EULA by reference. NGC hereby reserves all other rights.
 You may download the App onto any number of Devices and view, use and display the App on the Devices for your personal purposes only.
-LICENCE RESTRICTIONS
+
+### LICENCE RESTRICTIONS
 Except as expressly set out in this EULA or as permitted by any law, You agree:
-not to copy the App except where such copying is incidental to normal use of the App, or where it is necessary for the purpose of back-up or operational security;
-not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify the App;
-not to make alterations to, or modifications of, the whole or any part of the App, or permit the App or any part of it to be combined with, or become incorporated in, any other programs;
-not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the App
-not to provide or otherwise make available the App in whole or in part (including object and source code), in any form to any person without prior written consent from NGC; and
-to comply with all technology control or laws and regulations that apply to the technology used or supported by the App (“Technology”), together Licence Restrictions.
-ACCEPTABLE USE RESTRICTIONS
+
+a) not to copy the App except where such copying is incidental to normal use of the App, or where it is necessary for the purpose of back-up or operational security;
+
+b) not to rent, lease, sub-license, loan, translate, merge, adapt, vary or modify the App;
+
+c) not to make alterations to, or modifications of, the whole or any part of the App, or permit the App or any part of it to be combined with, or become incorporated in, any other programs;
+
+d) not to disassemble, decompile, reverse-engineer or create derivative works based on the whole or any part of the App
+
+e) not to provide or otherwise make available the App in whole or in part (including object and source code), in any form to any person without prior written consent from NGC; and
+
+f) to comply with all technology control or laws and regulations that apply to the technology used or supported by the App (“Technology”), together Licence Restrictions.
+
+### ACCEPTABLE USE RESTRICTIONS
+
 You shall:
 
 not use the App or any service in any unlawful manner, for any unlawful purpose, or in any manner inconsistent with this EULA, or act fraudulently or maliciously, for example, by hacking into or inserting malicious code, including viruses, or harmful data, into the App, any service or any operating system;
